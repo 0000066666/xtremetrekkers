@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://xtremetrekkers.com/xmlrpc.php">
+
+<title>RAJMACHI NIGHT TREK &#8211; XTREME TREKKERS</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="XTREME TREKKERS &raquo; Feed" href="http://xtremetrekkers.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="XTREME TREKKERS &raquo; Comments Feed" href="http://xtremetrekkers.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="XTREME TREKKERS &raquo; RAJMACHI NIGHT TREK Comments Feed" href="http://xtremetrekkers.com/rajmachi-night-trek/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/xtremetrekkers.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1&nocache=1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ai1ec_style-css'  href='//xtremetrekkers.com/wp-content/plugins/all-in-one-event-calendar/public/themes-ai1ec/vortex/css/ai1ec_parsed_css.css?ver=2.5.11&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://xtremetrekkers.com/wp-includes/css/dashicons.min.css?ver=4.6.1&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://xtremetrekkers.com/wp-includes/css/admin-bar.min.css?ver=4.6.1&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpaas-admin-css'  href='http://xtremetrekkers.com/wp-content/mu-plugins/gd-system-plugin/assets/css/admin.min.css?ver=2.0.3&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wmhr-style-css'  href='http://xtremetrekkers.com/wp-content/plugins/horizontal-line-styles/hr-style.css?ver=4.6.1&#038;nocache=1' type='text/css' media='all' />
+<style id='wmhr-style-inline-css' type='text/css'>
+
+				body hr{        
+         					border-top: 3px double #8c8b8b;
+         					width: 100%;
+       				margin-right: auto;
+         			margin-left:auto;;
+               			}
+</style>
+<link rel='stylesheet' id='pc_google_analytics-frontend-css'  href='http://xtremetrekkers.com/wp-content/plugins/pc-google-analytics/assets/css/frontend.css?ver=1.0.0&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm-comptable-styles-css'  href='http://xtremetrekkers.com/wp-content/plugins/table-maker/css/style.css?ver=1.6&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wrcptfront-css'  href='http://xtremetrekkers.com/wp-content/plugins/wrc-pricing-tables/css/wrcpt-front.css?ver=2.2.1&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='googleFonts-css'  href='//fonts.googleapis.com/css?family=Roboto+Condensed&#038;ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='attirant-fonts-css'  href='//fonts.googleapis.com/css?family=Muli%3A300%2C400%7CLato%3A300%2C400%2C900&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='attirant-style-css'  href='http://xtremetrekkers.com/wp-content/themes/attirant/style.css?ver=4.6.1&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='attirant-bootstrap-style-css'  href='http://xtremetrekkers.com/wp-content/themes/attirant/assets/bootstrap/css/bootstrap.min.css?ver=4.6.1&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='attirant-main-skin-css'  href='http://xtremetrekkers.com/wp-content/themes/attirant/assets/skins/main.css?ver=4.6.1&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='attirant-font-awesome-css'  href='http://xtremetrekkers.com/wp-content/themes/attirant/assets/font-awesome/css/font-awesome.min.css?ver=4.6.1&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='attirant-slider-css'  href='http://xtremetrekkers.com/wp-content/themes/attirant/assets/slider/jquery.bxslider.css?ver=4.6.1&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcw-css'  href='http://xtremetrekkers.com/wp-content/plugins/contact-widgets/assets/css/style.min.css?ver=1.0.1&#038;nocache=1' type='text/css' media='all' />
+<!-- Inline jetpack_facebook_likebox -->
+<style id='jetpack_facebook_likebox-inline-css' type='text/css'>
+.widget_facebook_likebox {
+	overflow: hidden;
+}
+
+</style>
+<link rel='stylesheet' id='wpaas-admin-bar-css'  href='http://xtremetrekkers.com/wp-content/mu-plugins/gd-system-plugin/assets/css/admin-bar.min.css?ver=2.0.3&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='gem-base-css'  href='http://xtremetrekkers.com/wp-content/plugins/godaddy-email-marketing-sign-up-forms/css/gem.min.css?ver=1.1.1&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='social-logos-css'  href='http://xtremetrekkers.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css?ver=1&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://xtremetrekkers.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.3.1&#038;nocache=1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin version 5.5.2 - https://www.monsterinsights.com/ --><!-- @Webmaster, normally you will find the Google Analytics tracking code here, but you are in the disabled user groups. To change this, navigate to Analytics -> Settings (Ignore usergroups) --><!-- / Google Analytics by MonsterInsights --><script type='text/javascript' src='http://xtremetrekkers.com/wp-includes/js/jquery/jquery.js?ver=1.12.4&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1&#038;nocache=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/plugins/jetpack/modules/related-posts/related-posts.js?ver=20150408&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/plugins/pc-google-analytics/assets/js/frontend.min.js?ver=1.0.0&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/themes/attirant/js/custom.js?ver=1&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/themes/attirant/js/jquery.slicknav.min.js?ver=1&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/themes/attirant/js/jquery.bxslider.js?ver=1&#038;nocache=1'></script>
+<link rel='https://api.w.org/' href='http://xtremetrekkers.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://xtremetrekkers.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://xtremetrekkers.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='DUKE&#8217;S NOSE PEAK TREK' href='http://xtremetrekkers.com/dukes-nose-peak-trek/' />
+<link rel='next' title='BHIVPURI WATERFALL RAPPELLING' href='http://xtremetrekkers.com/bhivpuri-waterfall-rappelling/' />
+<meta name="generator" content="WordPress 4.6.1" />
+<link rel="canonical" href="http://xtremetrekkers.com/rajmachi-night-trek/" />
+<link rel='shortlink' href='http://wp.me/p7GsUg-3T' />
+<link rel="alternate" type="application/json+oembed" href="http://xtremetrekkers.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fxtremetrekkers.com%2Frajmachi-night-trek%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://xtremetrekkers.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fxtremetrekkers.com%2Frajmachi-night-trek%2F&#038;format=xml" />
+<link rel='https://github.com/WP-API/WP-API' href='http://xtremetrekkers.com/wp-json' />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style><style>.site-description {color: #ffffff; }</style>	<style type="text/css">
+			.site-title a {
+			color: #b2ff00;
+		}
+			.header-image {
+			background: url(http://xtremetrekkers.com/wp-content/uploads/2016/08/cropped-nature_call-2560x1440.jpg) no-repeat #111;
+			background-position: center;
+			background-size: cover;
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #a0a0a0; background-image: url('http://xtremetrekkers.com/wp-content/uploads/2016/09/images.jpg'); background-repeat: repeat; background-position: top center; background-attachment: fixed; }
+</style>
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="RAJMACHI NIGHT TREK" />
+<meta property="og:url" content="http://xtremetrekkers.com/rajmachi-night-trek/" />
+<meta property="og:description" content="About the place Rajmachi (Udhewadi) is a small village in the rugged mountains of Sahyadri in India. The fortification at Rajmachi consists of two forts, namely Shrivardhan fort and Manaranjan Fort…" />
+<meta property="article:published_time" content="2016-07-25T15:10:37+00:00" />
+<meta property="article:modified_time" content="2016-09-15T17:12:28+00:00" />
+<meta property="og:site_name" content="XTREME TREKKERS" />
+<meta property="og:image" content="http://i0.wp.com/xtremetrekkers.com/wp-content/uploads/2016/07/Rajmachi.jpg?fit=1024%2C595" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="595" />
+<meta property="og:locale" content="en_GB" />
+<meta name="twitter:image" content="http://i0.wp.com/xtremetrekkers.com/wp-content/uploads/2016/07/Rajmachi.jpg?fit=1024%2C595&#038;w=640" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="icon" href="http://i0.wp.com/xtremetrekkers.com/wp-content/uploads/2016/08/cropped-wp-1472713186602.jpg?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="http://i0.wp.com/xtremetrekkers.com/wp-content/uploads/2016/08/cropped-wp-1472713186602.jpg?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://i0.wp.com/xtremetrekkers.com/wp-content/uploads/2016/08/cropped-wp-1472713186602.jpg?fit=180%2C180" />
+<meta name="msapplication-TileImage" content="http://i0.wp.com/xtremetrekkers.com/wp-content/uploads/2016/08/cropped-wp-1472713186602.jpg?fit=270%2C270" />
+
+<style type='text/css'>
+#wpadminbar .quicklinks li#wp-admin-bar-stats {
+	height: 28px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a {
+	height: 28px;
+	padding: 0;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a div {
+	height: 28px;
+	width: 95px;
+	overflow: hidden;
+	margin: 0 10px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a:hover div {
+	width: auto;
+	margin: 0 8px 0 10px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a img {
+	height: 24px;
+	padding: 2px 0;
+	max-width: none;
+	border: none;
+}
+</style>
+<script type="text/javascript">
+/* <![CDATA[ */
+	var wpNotesIsJetpackClient = true;
+	var wpNotesIsJetpackClientV2 = true;
+/* ]]> */
+</script>
+</head>
+
+<body class="single single-post postid-241 single-format-standard logged-in admin-bar no-customize-support custom-background">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div id="top-bar"></div>
+	<header id="masthead-2" class="site-header head-2 container" role="banner">
+		<nav id="post-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Primary Menu</button>
+			<div class="menu-primary-menu-container"><ul id="primary-menu" class="nav-menu"><li id="menu-item-201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-201"><a href="http://xtremetrekkers.com">HOME</a></li>
+<li id="menu-item-322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="http://xtremetrekkers.com/upcoming-events/">UPCOMING EVENTS</a></li>
+<li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432"><a href="http://xtremetrekkers.com/news-2/">NEWS</a></li>
+<li id="menu-item-442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-442"><a href="http://xtremetrekkers.com/feedback/">FEEDBACK</a></li>
+<li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="http://xtremetrekkers.com/special-offers-and-trainee-program/">SPECIAL OFFERS</a></li>
+<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="http://xtremetrekkers.com/volunteer-training-program-vtp/">VOLUNTEER TRAINING PROGRAM (VTP)</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://xtremetrekkers.com/about/">ABOUT US</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://xtremetrekkers.com/contact/">CONTACT US</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+		<div class="site-branding col-lg-6 col-md-6 col-sm-12 col-xs-12">
+				<h1 class="site-title"><a href="http://xtremetrekkers.com/" rel="home">XTREME TREKKERS</a></h1>
+							<p class="site-description"> It is not the mountain we conquer but OURSELVES.</p>
+					</div><!-- .site-branding -->
+		
+<div id="social-icons-post" class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+			<a target="_blank" href="https://www.facebook.com/xtremetrekkers/" title="Facebook"><i class="fa fa-facebook"></i></a>
+			<a target="_blank" href="https://www.instagram.com/xtremetrekkers/" title="Instagram"><i class="fa fa-instagram"></i></a>
+			<a target="_blank" href="https://www.youtube.com/channel/UCaDVRBOraaA2TI-WfB2BuRw" title="Youtube"><i class="fa fa-youtube"></i></a>
+	
+</div>	</header><!-- #masthead -->
+	
+		
+			
+		<div class="single-title">
+						<img width="1024" height="400" src="http://i0.wp.com/xtremetrekkers.com/wp-content/uploads/2016/07/Rajmachi.jpg?resize=1024%2C400" class="attachment-attirant-single size-attirant-single wp-post-image" alt="Rajmachi" />		<h1 class="entry-title">RAJMACHI NIGHT TREK</h1>		</div>
+		
+		
+	<div id="content" class="site-content container">
+
+	<div id="primary" class="content-area col-lg-8 col-md-8 col-sm-8 col-xs-12">
+		<main id="main" class="site-main" role="main">
+
+		
+<article id="post-241" class="post-241 post type-post status-publish format-standard has-post-thumbnail hentry category-two-days-trek">
+	<header class="entry-header">
+		
+						<div class="entry-meta">
+			<span class="posted-on"><a href="http://xtremetrekkers.com/rajmachi-night-trek/" rel="bookmark"><time class="entry-date published" datetime="2016-07-25T08:10:37+00:00">July 25, 2016</time><time class="updated" datetime="2016-09-15T10:12:28+00:00">September 15, 2016</time></a></span><span class="byline"> <span class="author vcard"><a class="url fn n" href="http://xtremetrekkers.com/author/xtreme-trekkers/">Xtreme Trekkers</a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<h2 style="text-align: center;"><span style="color: #000000;">About the place</span></h2>
+<div id="stcpDiv">
+<p><span style="color: #000000; font-size: 14pt;"><b>Rajmachi (Udhewadi)</b> is a small village in the rugged mountains of Sahyadri in India. The fortification at Rajmachi consists of two forts, namely Shrivardhan fort and Manaranjan Fort. Rajmachi Fort is a popular trekking destination. It is a very famous fort located near two famous hills of Maharashtra, Lonavala and Khanadala.It is about <strong>15 km treking distance from Lonavala</strong>.</span></p>
+<p><span style="color: #000000; font-size: 14pt;">Historically, Rajmachi fort was a strategic fort to control Borghat(ghat between Khopoli and Khandala on Mumbai-Pune route) which was a historical trade route. Rajmachi peak has two fortified structures &#8211; the Shrivardhan fort and Manaranjan fort. Rajmachi can be reached by 2 ways, the tough route is from Kondivade village near Karjat and it involves climb-up of about 2000 feet. The other route is from Lonavala, which is almost a plain walk of about 15 km. In rainy season this region all the more beautiful with silvery water falls, streams and lush green forests and meadows.</span></p>
+</div>
+<hr />
+<h2 style="text-align: center;"><span style="color: #000000;">Reaching Rajmachi</span></h2>
+<h2 style="text-align: center;"><iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d241947.99145701178!2d73.49995173059956!3d18.64435960862968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x3bc2bf2e67461101%3A0x828d43bf9d9ee343!2sPune%2C+Maharashtra!3m2!1d18.520430299999997!2d73.8567437!4m5!1s0x3be801098bdf8145%3A0x696b4a60a5e28658!2sLonavala%2C+Maharashtra+410401!3m2!1d18.7546171!2d73.4062342!5e0!3m2!1sen!2sin!4v1469453728294" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h2>
+<hr />
+<h2 style="text-align: center;"><span style="color: #000000;">Trekking</span></h2>
+<div id="stcpDiv"><span style="color: #000000; font-size: 14pt;">There are two ways to reach the Rajmachi fort. One is from Lonavla, roughly 20 km flat walk and the other is from Karjat, gradually climb of around 4 km. For beginners, it would be better to trek from Lonavla as this is a much easier path. After completing the trek they can descend to Karjat if they are from Mumbai or suburbs. For those trekkers who are from Pune, it would be better to trek back to Lonavla.</span></div>
+<hr />
+
+<h2 style="text-align: center;"><span style="color: #000000;">What to carry?</span></h2>
+<p><span style="color: #000000; font-size: 14pt;"><strong> Important and Mandatory :</strong></span></p>
+<p><span style="color: #000000; font-size: 14pt;">1.Packed Lunch (To be carried with yourself).</span><br />
+<span style="color: #000000; font-size: 14pt;"> 2. People using contacts &#8211; carry a bottle of lotion, an extra pair of spectacles.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 3. Emergency whistle.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 4. A water-proof jacket/sweater (if it begins to rain).</span><br />
+<span style="color: #000000; font-size: 14pt;"> 5. Contact list of person, telephone no. and address ( in case of emergency ).</span><br />
+<span style="color: #000000; font-size: 14pt;"> 6. Those wearing spectacles please carry an extra pair in strong spectacle box.</span></p>
+<p><span style="color: #000000; font-size: 14pt;"><strong>Mandatory :</strong></span><br />
+<span style="color: #000000; font-size: 14pt;"> 1. A strong Back-Pack (preferably water proof).</span><br />
+<span style="color: #000000; font-size: 14pt;"> 2. Water bottle (enough to carry at least 2 liters of water).</span><br />
+<span style="color: #000000; font-size: 14pt;"> 3. An extra pair of socks, under garments, T-Shirt.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 4. A water-proof jacket/sweater (if it begins to rain).</span><br />
+<span style="color: #000000; font-size: 14pt;"> 5. Bandanna ( keeps the sweat out of the eyes ) and/or Wide brimmed hat.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 6. Toothbrush &amp; toothpaste, towel, liquid soap.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 7. Few old news papers ( may be 4 would be fine).</span><br />
+<span style="color: #000000; font-size: 14pt;"> 8. A torch with two new batteries and extra bulb.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 9. Some strong adhesive tape and/or A small role of strong string.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 10. A small pocket knife ( if you have a Victorinox -SWISS ARMY knife then great..).</span><br />
+<span style="color: #000000; font-size: 14pt;"> 11. One matchbox/ lighter.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 12. Some tissue/toilet paper.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 13. Insect repellant (ex. Odomos).</span><br />
+<span style="color: #000000; font-size: 14pt;"> 14. Basic First Aid &amp; Medicine &#8211;</span><br />
+<span style="color: #000000; font-size: 14pt;"> Anti-Dysentery Pills (Eldoper)</span><br />
+<span style="color: #000000; font-size: 14pt;"> Some generic pills (Crocin, Imol, etc)</span><br />
+<span style="color: #000000; font-size: 14pt;"> Anti Cold preparation (COLDACT).</span><br />
+<span style="color: #000000; font-size: 14pt;"> Band aids.</span><br />
+<span style="color: #000000; font-size: 14pt;"> Gauze roll &amp; antiseptic lotion.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 15. Energy Food ( Chocolate bars, Flavored milk, Electrolyte drinks &#8211; Glucon-D, etc ).</span><br />
+<span style="color: #000000; font-size: 14pt;"> 16. Garbage bag to collect any litter we may create (or other people have created).</span></p>
+<p><span style="color: #000000; font-size: 14pt;"><strong>Optional</strong><u>:<br />
+</u>1. Compass &amp; Terrain Map.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 2. Camera.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 3. Extra food.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 4. Book and pen to keep trek-journal entries.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 5. A walking staff.</span><br />
+<span style="color: #000000; font-size: 14pt;"> 6. Extra laces for your shoes</span></p>
+<hr />
+
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-twitter"><a rel="nofollow" data-shared="sharing-twitter-241" class="share-twitter sd-button share-icon no-text" href="http://xtremetrekkers.com/rajmachi-night-trek/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-facebook"><a rel="nofollow" data-shared="sharing-facebook-241" class="share-facebook sd-button share-icon no-text" href="http://xtremetrekkers.com/rajmachi-night-trek/?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-google-plus-1"><a rel="nofollow" data-shared="sharing-google-241" class="share-google-plus-1 sd-button share-icon no-text" href="http://xtremetrekkers.com/rajmachi-night-trek/?share=google-plus-1" target="_blank" title="Click to share on Google+"><span></span><span class="sharing-screen-reader-text">Click to share on Google+ (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div>	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links col-lg-4 col-md-4 col-sm-12 col-xs-12"><span class="text">CATEGORIES</span><a href="http://xtremetrekkers.com/category/two-days-trek/" rel="category tag">Two days Treks</a></span><span class="edit-link"><a class="post-edit-link" href="http://xtremetrekkers.com/wp-admin/post.php?post=241&#038;action=edit">Edit <span class="screen-reader-text">"RAJMACHI NIGHT TREK"</span></a></span>	</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="http://xtremetrekkers.com/dukes-nose-peak-trek/" rel="prev">DUKE&#8217;S NOSE PEAK TREK</a></div><div class="nav-next"><a href="http://xtremetrekkers.com/bhivpuri-waterfall-rappelling/" rel="next">BHIVPURI WATERFALL RAPPELLING</a></div></div>
+	</nav>
+<div id="comments" class="comments-area">
+
+					<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/rajmachi-night-trek/#respond" style="display:none;">Cancel reply</a></small></h3>				<form action="http://xtremetrekkers.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+					<p class="logged-in-as"><a href="http://xtremetrekkers.com/wp-admin/profile.php" aria-label="Logged in as rohanpawar959. Edit your profile.">Logged in as rohanpawar959</a>. <a href="http://xtremetrekkers.com/wp-login.php?action=logout&amp;redirect_to=http%3A%2F%2Fxtremetrekkers.com%2Frajmachi-night-trek%2F&amp;_wpnonce=6ab07cd6df">Log out?</a></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='241' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><input type="hidden" id="_wp_unfiltered_html_comment_disabled" name="_wp_unfiltered_html_comment_disabled" value="9beadad0e4" /><script>(function(){if(window===window.parent){document.getElementById('_wp_unfiltered_html_comment_disabled').name='_wp_unfiltered_html_comment';}})();</script>
+<p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_blog" id="subscribe_blog" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;" /> <label class="subscribe-label" id="subscribe-blog-label" for="subscribe_blog">Notify me of new posts by email.</label></p>				</form>
+					</div><!-- #respond -->
+		
+</div><!-- #comments -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="widget-area col-lg-4 col-md-4 col-sm-4 col-xs-12" role="complementary">
+			<section id="recent-posts-6" class="widget widget_recent_entries">		<h2 class="widget-title"><span>Recent Posts</span></h2>		<ul>
+					<li>
+				<a href="http://xtremetrekkers.com/25-27-nov-16-alang-madan-kulang-amk-trek/">25-27 Nov&#8217; 16 : ALANG-MADAN-KULANG (AMK) TREK</a>
+						</li>
+					<li>
+				<a href="http://xtremetrekkers.com/19-20-nov-16-torna-to-rajgad-range-trek/">19-20 Nov&#8217; 16 : TORNA TO RAJGAD RANGE TREK</a>
+						</li>
+					<li>
+				<a href="http://xtremetrekkers.com/12-13-nov-16-sandhan-valley-rappelling/">12-13 Nov&#8217; 16 : SANDHAN VALLEY (RAPPELLING)</a>
+						</li>
+					<li>
+				<a href="http://xtremetrekkers.com/05-06-nov-16-ratangad-trek/">05-06 Nov&#8217; 16 : RATANGAD TREK</a>
+						</li>
+					<li>
+				<a href="http://xtremetrekkers.com/jeevdhan-naneghat-fort-trek/">23 Oct&#8217; 16 : JEEVDHAN NANEGHAT FORT TREK</a>
+						</li>
+				</ul>
+		</section>		<section id="categories-11" class="widget widget_categories"><h2 class="widget-title"><span>Categories</span></h2><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="20">himalayan treks</option>
+	<option class="level-0" value="18">One Day Treks</option>
+	<option class="level-0" value="21">River Rafting</option>
+	<option class="level-0" value="1">Two days Treks</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://xtremetrekkers.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</section><section id="search-12" class="widget widget_search"><h2 class="widget-title"><span>Search</span></h2><form role="search" method="get" class="search-form" action="http://xtremetrekkers.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></section><section id="blog_subscription-3" class="widget jetpack_subscription_widget"><h2 class="widget-title"><span>Subscribe to website via Email</span></h2>
+			<form action="#" method="post" accept-charset="utf-8" id="subscribe-blog-blog_subscription-3">
+				<div id="subscribe-text"><p>Enter your email address to subscribe to this website and receive notifications of new posts by email.</p>
+</div><p>Join 4 other subscribers</p>
+					<p id="subscribe-email">
+						<label id="jetpack-subscribe-label" for="subscribe-field-blog_subscription-3">
+							Email Address						</label>
+						<input type="email" name="email" required="required" class="required" value="" id="subscribe-field-blog_subscription-3" placeholder="Email Address" />
+					</p>
+
+					<p id="subscribe-submit">
+						<input type="hidden" name="action" value="subscribe" />
+						<input type="hidden" name="source" value="http://xtremetrekkers.com/rajmachi-night-trek/" />
+						<input type="hidden" name="sub-type" value="widget" />
+						<input type="hidden" name="redirect_fragment" value="blog_subscription-3" />
+						<input type="hidden" id="_wpnonce" name="_wpnonce" value="e7d81be740" />						<input type="submit" value="Subscribe" name="jetpack_subscriptions_widget" />
+					</p>
+							</form>
+
+			<script>
+			/*
+			Custom functionality for safari and IE
+			 */
+			(function( d ) {
+				// In case the placeholder functionality is available we remove labels
+				if ( ( 'placeholder' in d.createElement( 'input' ) ) ) {
+					var label = d.querySelector( 'label[for=subscribe-field-blog_subscription-3]' );
+						label.style.clip 	 = 'rect(1px, 1px, 1px, 1px)';
+						label.style.position = 'absolute';
+						label.style.height   = '1px';
+						label.style.width    = '1px';
+						label.style.overflow = 'hidden';
+				}
+
+				// Make sure the email value is filled in before allowing submit
+				var form = d.getElementById('subscribe-blog-blog_subscription-3'),
+					input = d.getElementById('subscribe-field-blog_subscription-3'),
+					handler = function( event ) {
+						if ( '' === input.value ) {
+							input.focus();
+
+							if ( event.preventDefault ){
+								event.preventDefault();
+							}
+
+							return false;
+						}
+					};
+
+				if ( window.addEventListener ) {
+					form.addEventListener( 'submit', handler, false );
+				} else {
+					form.attachEvent( 'onsubmit', handler );
+				}
+			})( document );
+			</script>
+				
+</section><section id="archives-4" class="widget widget_archive"><h2 class="widget-title"><span>Archives</span></h2>		<ul>
+			<li><a href='http://xtremetrekkers.com/2016/09/'>September 2016</a></li>
+	<li><a href='http://xtremetrekkers.com/2016/08/'>August 2016</a></li>
+	<li><a href='http://xtremetrekkers.com/2016/07/'>July 2016</a></li>
+		</ul>
+		</section></aside><!-- #secondary -->	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div id="footer-sidebar" class="widget-area clear container" role="complementary">
+				<div class="footer-column col-lg-4 col-md-4 col-sm-12 col-xs-12"> <aside id="wpcw_contact-4" class="widget wpcw-widgets wpcw-widget-contact"><h1 class="widget-title">Contact Us</h1><ul><li class="has-label"><strong>Email</strong><br><div><a href="mailto:k&#104;&#97;r&#100;&#101;ka&#114;7&#55;&#64;gmail&#46;co&#109;">k&#104;&#97;r&#100;&#101;ka&#114;7&#55;&#64;gmail&#46;co&#109;</a></div></li><li class="has-label"><strong>Phone</strong><br><div>+91(814)-901-7580</div></li><li class="has-label"><strong>Address</strong><br><div>Venkatesh, 3rd Floor, Sankala Arcade, Opposite to Lagu Bandhu,Karve Road, Pune 411036</div></li><li class="has-map"><iframe src="//www.google.com/maps?q=Venkatesh%2C+3rd+Floor%2C+Sankala+Arcade%2C+Opposite+to+Lagu+Bandhu%2CKarve+Road%2C+Pune+411036&output=embed&hl=en-GB" scrolling="no" frameborder="0"></iframe></li></ul><a class="post-edit-link" data-widget-id="wpcw_contact-4" href="http://xtremetrekkers.com/wp-admin/customize.php?autofocus%5Bsection%5D=sidebar-widgets-sidebar-2&#038;autofocus%5Bcontrol%5D=widget_wpcw_contact%5B4%5D&#038;url=http%3A%2F%2Fxtremetrekkers.com%2Frajmachi-night-trek%2F">Edit</a></aside> </div> 		<div class="footer-column col-lg-4 col-md-4 col-sm-12 col-xs-12"> <aside id="search-10" class="widget widget_search"><h1 class="widget-title">Search</h1><form role="search" method="get" class="search-form" action="http://xtremetrekkers.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="facebook-likebox-3" class="widget widget_facebook_likebox"><h1 class="widget-title"><a href="https://www.facebook.com/xtremetrekkers/">Xtreme Trekkers</a></h1>		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/xtremetrekkers/" data-width="340"  data-height="432" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/xtremetrekkers/"><a href="https://www.facebook.com/xtremetrekkers/">Xtreme Trekkers</a></blockquote></div>
+		</div>
+		</aside> </div> 		<div class="footer-column col-lg-4 col-md-4 col-sm-12 col-xs-12"> <aside id="categories-13" class="widget widget_categories"><h1 class="widget-title">Categories</h1><label class="screen-reader-text" for="categories-dropdown-13">Categories</label><select  name='cat' id='categories-dropdown-13' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="20">himalayan treks&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="18">One Day Treks&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="21">River Rafting&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="1">Two days Treks&nbsp;&nbsp;(12)</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "categories-dropdown-13" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://xtremetrekkers.com/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside> </div> 	 		
+	</div>
+		<div class="site-info">
+			theme - <b>XTREME TREKKERS</b> by <a href="https://www.facebook.com/rohan.pawar959" rel="designer">ROHAN PAWAR</a>		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+	<div style="display:none">
+	</div>
+
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"http:\/\/xtremetrekkers.com\/rajmachi-night-trek\/":241};
+	</script>
+		<script type="text/javascript">
+		var windowOpen;
+		jQuery(document.body).on('click', 'a.share-twitter', function() {
+			if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+				windowOpen.close();
+			}
+			windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+			return false;
+		});
+		</script>
+				<script type="text/javascript">
+		var windowOpen;
+		jQuery(document.body).on('click', 'a.share-facebook', function() {
+			if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+				windowOpen.close();
+			}
+			windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+			return false;
+		});
+		</script>
+				<script type="text/javascript">
+		var windowOpen;
+		jQuery(document.body).on('click', 'a.share-google-plus-1', function() {
+			if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
+				windowOpen.close();
+			}
+			windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomgoogle-plus-1', 'menubar=1,resizable=1,width=480,height=550' );
+			return false;
+		});
+		</script>
+		<link rel='stylesheet' id='remove-style-meta-css'  href='http://xtremetrekkers.com/wp-content/plugins/wp-author-date-and-meta-remover/css/entrymetastyle.css?ver=1.0&#038;nocache=1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpcom-notes-admin-bar-css'  href='http://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.css?ver=4.3.1-201638' type='text/css' media='all' />
+<link rel='stylesheet' id='noticons-css'  href='http://s0.wp.com/i/noticons/noticons.css?ver=4.3.1-201638' type='text/css' media='all' />
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-includes/js/admin-bar.min.js?ver=4.6.1&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122&#038;nocache=1'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201638'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Sepaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":"a9fadae98d90cab3c78d0e616627b392"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.6.1&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/themes/attirant/js/navigation.js?ver=20120206&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/themes/attirant/js/skip-link-focus-fix.js?ver=20130115&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-includes/js/comment-reply.min.js?ver=4.6.1&#038;nocache=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"en_GB"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/plugins/jetpack/_inc/facebook-embed.js?nocache=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var GEM = {"thankyou":"Thank you for signing up!","thankyou_suppressed":"Thank you for signing up! Please check your email to confirm your subscription.","oops":"Oops! There was a problem. Please try again.","email":"Please enter a valid email address.","required":"%s is a required field."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/plugins/godaddy-email-marketing-sign-up-forms/js/gem.min.js?ver=1.1.1&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-includes/js/wp-embed.min.js?ver=4.6.1&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-includes/js/underscore.min.js?ver=1.8.3&#038;nocache=1'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-includes/js/backbone.min.js?ver=1.2.3&#038;nocache=1'></script>
+<script type='text/javascript' src='http://s1.wp.com/wp-content/js/mustache.js?ver=4.3.1-201638'></script>
+<script type='text/javascript' src='http://s1.wp.com/wp-content/mu-plugins/notes/notes-common-v2.js?ver=4.3.1-201638'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.js?ver=4.3.1-201638'></script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/plugins/table-maker/js/table-maker-front.js?ver=1.6&#038;nocache=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sharing_js_options = {"lang":"en","counts":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://xtremetrekkers.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js?ver=4.3.1&#038;nocache=1'></script>
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+			request = true;
+
+			b[c] = b[c].replace( rcs, ' ' );
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://xtremetrekkers.com/wp-admin/about.php"><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu">
+		<li id="wp-admin-bar-about"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/about.php">About WordPress</a>		</li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item" href="https://wordpress.org/">WordPress.org</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item" href="https://codex.wordpress.org/">Documentation</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item" href="https://wordpress.org/support/">Support Forums</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item" href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://xtremetrekkers.com/wp-admin/">XTREME TREKKERS</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu">
+		<li id="wp-admin-bar-dashboard"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/">Dashboard</a>		</li></ul><ul id="wp-admin-bar-appearance" class="ab-submenu">
+		<li id="wp-admin-bar-themes"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/themes.php">Themes</a>		</li>
+		<li id="wp-admin-bar-widgets"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/widgets.php">Widgets</a>		</li>
+		<li id="wp-admin-bar-menus"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/nav-menus.php">Menus</a>		</li>
+		<li id="wp-admin-bar-background" class="hide-if-customize"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/themes.php?page=custom-background">Background</a>		</li>
+		<li id="wp-admin-bar-header" class="hide-if-customize"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/themes.php?page=custom-header">Header</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/customize.php?url=http%3A%2F%2Fxtremetrekkers.com%2Frajmachi-night-trek%2F">Customise</a>		</li>
+		<li id="wp-admin-bar-updates"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/update-core.php" title="6 Plugin Updates, 11 Theme Updates"><span class="ab-icon"></span><span class="ab-label">17</span><span class="screen-reader-text">6 Plugin Updates, 11 Theme Updates</span></a>		</li>
+		<li id="wp-admin-bar-comments"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/edit-comments.php"><span class="ab-icon"></span><span id="ab-awaiting-mod" class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text">0 comments awaiting moderation</span></a>		</li>
+		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item" aria-haspopup="true" href="http://xtremetrekkers.com/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
+		<li id="wp-admin-bar-new-post"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/post-new.php">Post</a>		</li>
+		<li id="wp-admin-bar-new-media"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/media-new.php">Media</a>		</li>
+		<li id="wp-admin-bar-new-page"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/post-new.php?post_type=page">Page</a>		</li>
+		<li id="wp-admin-bar-new-nf_sub"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/post-new.php?post_type=nf_sub">Submissions</a>		</li>
+		<li id="wp-admin-bar-new-ai1ec_event"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/post-new.php?post_type=ai1ec_event">Event</a>		</li>
+		<li id="wp-admin-bar-new-easy-pricing-table"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/post-new.php?post_type=easy-pricing-table">Pricing Table</a>		</li>
+		<li id="wp-admin-bar-new-user"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/user-new.php">User</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-edit"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/post.php?post=241&#038;action=edit">Edit Post</a>		</li>
+		<li id="wp-admin-bar-stats"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/admin.php?page=stats"><div><script type='text/javascript'>var src;if(typeof(window.devicePixelRatio)=='undefined'||window.devicePixelRatio<2){src='http://xtremetrekkers.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale';}else{src='http://xtremetrekkers.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale-2x';}document.write('<img src=\''+src+'\' alt=\'Stats\' title=\'Views over 48 hours. Click for more Site Stats.\' />');</script></div></a>		</li>
+		<li id="wp-admin-bar-wpaas" class="menupop"><div class="ab-item ab-empty-item" aria-haspopup="true"><span class="ab-icon dashicons dashicons-godaddy-alt"></span><span class="ab-label">GoDaddy</span></div><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wpaas-default" class="ab-submenu">
+		<li id="wp-admin-bar-wpaas-settings"><a class="ab-item" href="http://gateway.godaddy.com/?domain=xtremetrekkers.com&#038;edit_settings=1&#038;pl_id=1" target="_blank">Account Settings <span class="dashicons dashicons-external"></span></a>		</li>
+		<li id="wp-admin-bar-wpaas-flush-cache"><a class="ab-item" href="/rajmachi-night-trek/?wpaas_action=flush_cache&#038;wpaas_nonce=f4fe80a7dc">Flush Cache</a>		</li></ul></div>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://xtremetrekkers.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item" aria-haspopup="true" href="http://xtremetrekkers.com/wp-admin/profile.php">How are you, rohanpawar959?<img alt='' src='http://1.gravatar.com/avatar/a9fadae98d90cab3c78d0e616627b392?s=26&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a9fadae98d90cab3c78d0e616627b392?s=52&amp;d=mm&amp;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
+		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://xtremetrekkers.com/wp-admin/profile.php"><img alt='' src='http://1.gravatar.com/avatar/a9fadae98d90cab3c78d0e616627b392?s=64&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a9fadae98d90cab3c78d0e616627b392?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>rohanpawar959</span></a>		</li>
+		<li id="wp-admin-bar-edit-profile"><a class="ab-item" href="http://xtremetrekkers.com/wp-admin/profile.php">Edit My Profile</a>		</li>
+		<li id="wp-admin-bar-logout"><a class="ab-item" href="http://xtremetrekkers.com/wp-login.php?action=logout&#038;_wpnonce=6ab07cd6df">Log Out</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-notes" class="menupop"><div class="ab-item ab-empty-item"><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read">
+					<span class="noticon noticon-notification"></span>
+					</span></div><div id="wpnt-notes-panel2" style="display:none" lang="en-gb" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header">Notifications</span><span class="wpnt-notes-panel-link"></span></div></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://xtremetrekkers.com/wp-login.php?action=logout&#038;_wpnonce=6ab07cd6df">Log Out</a>
+					</div>
+
+		
+</body>
+</html>
